@@ -59,3 +59,8 @@ Có thể cải tiến chương trình bằng cách thêm thanh tiến trình %,
 🏁 9. Kết luận
 
 Ứng dụng “Tìm Kiếm Tệp Nhanh” kết hợp hiệu quả giữa xử lý song song trong Java và giao diện Swing, giúp tìm kiếm văn bản trong nhiều tệp thực tế một cách nhanh chóng, trực quan và mượt mà..
+Hình ảnh minh họa
+
+
+<img width="1087" height="664" alt="image" src="https://github.com/user-attachments/assets/3ed8d440-e99d-412f-8a39-80d697e0e91c" />
+
